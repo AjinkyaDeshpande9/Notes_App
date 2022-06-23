@@ -4,9 +4,15 @@
     <color name="purple_500">#FF6200EE</color>
     <color name="green_bold">#56c596</color>
     <color name="green">#7be495</color>
+    <color name="txt_bg">#CFF4D2</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bg_color">#c6e2e9</color>
+    <color name="red">#FD3122</color>
+    <color name="yellow">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="blue">#205072</color>
+    <color name="babyPink">#ffe3b3</color>
 </resources>

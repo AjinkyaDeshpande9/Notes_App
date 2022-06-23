@@ -5,16 +5,19 @@
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/edit_txt_shape.xml" value="0.1435" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/no_btn.xml" value="0.1435" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/orange_dot.xml" value="0.1435" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/red_dot.xml" value="0.1435" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/yellow_dot.xml" value="0.1435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/yes_btn.xml" value="0.1435" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.21" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/dialog_delete.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/dialog_delete.xml" value="0.33" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/fragment_create_notes.xml" value="0.18" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/fragment_edit_notes.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/item_notes.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NotesApp/app/src/main/res/layout/red_btn.xml" value="0.17074275362318841" />
       </map>
     </option>
   </component>
