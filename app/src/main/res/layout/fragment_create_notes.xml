@@ -49,6 +49,7 @@
                 android:id="@+id/pRed"
                 android:layout_width="25dp"
                 android:layout_height="25dp"
+                android:src="@drawable/ic_baseline_done_24"
                 android:background="@drawable/red_dot"/>
 
             <ImageView
